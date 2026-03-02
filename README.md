@@ -1,2 +1,58 @@
-# OSWE-Study
-I have written every arguments listed in the OSWE syllabus and compiled useful study resources for each one.
+# 1.0 Rules
+1. Instead of using AI to understand concepts, rely on Google searches public information.
+2. Don’t use AI to write scripts. Instead, use Google search to find code snippets as needed.
+
+# 2.0 OSWE Study
+- [ ] 1.0 JavaScript Prototype Pollution
+	- [ ] Books: [JavaScript the Definitive Guide, 7th Edition](https://www.amazon.com/JavaScript-Definitive-Most-Used-Programming-Language/dp/1491952024?crid=3JRMQZWAFZO42&sprefix=%2Caps%2C450&sr=8-1)
+	- [ ] HTB Academy Module: [JavaScript Deobfuscation](https://academy.hackthebox.com/module/details/41),  [Secure Coding 101: JavaScript](https://academy.hackthebox.com/module/details/38)
+- [ ] 2.0 Advanced Server-Side Request Forgery (SSRF)
+- [ ] 3.0 Web Security Tools and Methodologies
+- [ ] 4.0 Source Code Analysis
+- [ ] 5.0 Persistent Cross-Site Scripting (XSS)
+- [ ] 6.0 Session Hijacking
+- [ ] 7.0 .NET Deserialization
+- [ ] 8.0 Remote Code Execution
+- [ ] 9.0 Blind SQL Injection
+- [ ] 10.0 Data Exfiltration
+- [ ] 11.0 Bypassing File Upload Restriction and File Extension Filters
+- [ ] 12.0 PHP Type Juggling with Loose Comparisons
+- [ ] 13.0 PostgreSQL Extension and User-Defined Functions
+- [ ] 14.0 Bypassing REGEX Restrictions
+	- [ ] Learn [Regex](https://regex101.com/)
+- [ ] 15.0 Magic Hashes
+- [ ] 16.0 Bypassing Character Restrictions
+- [ ] 17.0 UDF Reverse Shells
+- [ ] 18.0 PostgreSQL Large Objects
+- [ ] 19.0 DOM-Based Cross-Site Scripting (Black box)
+- [ ] 20.0 Server-Side Template Injection
+- [ ] 21.0 Weak Random Token Generation
+- [ ] 22.0 XML External Entity Injection
+- [ ] 23.0 RCE via Database Functions
+- [ ] 24.0 OS Command Injection via WebSockets (Black Box)
+# 3.0 Practice
+- Hackthebox - Machines
+	- [ ] Vault
+	- [ ] Popcorn
+	- [ ] Celestial
+	- [ ] Blocky
+	- [ ] Falafel
+	- [ ] Zipper
+	- [ ] Unattended
+	- [ ] Help
+	- [ ] Mango
+	- [ ] Schooled
+	- [ ] Sink
+	- [ ] Monitors
+	- [ ] Magic
+	- [ ] Fulcrum
+	- [ ] Unobtainium
+	- [ ] Crossfit
+	- [ ] Crossfit2
+	- [ ] Stacked
+	- [ ] Fingerprint
+	- [ ] Cereal
+	- [ ] JSON
+	- [ ] Arkham
+	- [ ] Hackback
+	- [ ] Holiday
