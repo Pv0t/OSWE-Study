@@ -6,7 +6,7 @@
 - [ ] 1.0 JavaScript Prototype Pollution
 	- [ ] Books: [JavaScript the Definitive Guide, 7th Edition](https://www.amazon.com/JavaScript-Definitive-Most-Used-Programming-Language/dp/1491952024?crid=3JRMQZWAFZO42&sprefix=%2Caps%2C450&sr=8-1)
 	- [ ] HTB Academy Module: [JavaScript Deobfuscation](https://academy.hackthebox.com/module/details/41),  [Secure Coding 101: JavaScript](https://academy.hackthebox.com/module/details/38)
- 	- [ ] Interesting blogs to read: [How I exploited an arbitrary code execution vulnerability in fast-redact](https://itnext.io/how-i-exploited-a-remote-code-execution-vulnerability-in-fast-redact-9e69fa35572f), [SetTimeout and SetInterval use eval therefore are evil](https://idiallo.com/javascript/settimeout-and-setinterval-and-setevil), [Pentesting Node.js Application : Nodejs Application Security](https://www.websecgeeks.com/2017/04/pentesting-nodejs-application-nodejs.html)
+ 	- [ ] Interesting blogs to read: [How I exploited an arbitrary code execution vulnerability in fast-redact](https://itnext.io/how-i-exploited-a-remote-code-execution-vulnerability-in-fast-redact-9e69fa35572f), [SetTimeout and SetInterval use eval therefore are evil](https://idiallo.com/javascript/settimeout-and-setinterval-and-setevil), [Pentesting Node.js Application : Nodejs Application Security](https://www.websecgeeks.com/2017/04/pentesting-nodejs-application-nodejs.html), [Escape NodeJS Sandboxes](https://www.netspi.com/blog/technical-blog/web-application-pentesting/escape-nodejs-sandboxes/)
  	 - [ ] Exploits: [CVE-2019-5678](https://rhinosecuritylabs.com/application-security/nvidia-rce-cve-2019-5678/) 
 - [ ] 2.0 Advanced Server-Side Request Forgery (SSRF)
 - [ ] 3.0 Web Security Tools and Methodologies
