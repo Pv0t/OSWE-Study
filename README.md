@@ -33,7 +33,8 @@
 - [ ] 23.0 RCE via Database Functions
 - [ ] 24.0 OS Command Injection via WebSockets (Black Box)
 # 3.0 Practice
-- Hackthebox - Machines
+## 3.1 Hackthebox
+- Machines
 	- [ ] Vault
 	- [ ] Popcorn
 	- [ ] Celestial
@@ -58,3 +59,8 @@
 	- [ ] Arkham
 	- [ ] Hackback
 	- [ ] Holiday
+## 3.2 Practice
+### 3.2.1 XSS
+- [ ] [A Vulnerable Python Web-App to practice XSS and Command Injection](https://github.com/bmdyy/testr)
+### 3.2.2 PHP
+- [ ] [A Vulnerable PHP Web App](https://github.com/bmdyy/tudo)
